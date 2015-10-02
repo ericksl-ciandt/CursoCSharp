@@ -1,0 +1,8 @@
+D:\CursoCSharp\Palindrome\Palindrome\bin\Debug\Palindrome.dll
+D:\CursoCSharp\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+D:\CursoCSharp\Palindrome\Palindrome\obj\Debug\Palindrome.dll
+D:\CursoCSharp\Palindrome\Palindrome\obj\Debug\Palindrome.pdb
+C:\Users\ericksl\Desktop\CursoCSharp\Palindrome\Palindrome\bin\Debug\Palindrome.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Palindrome\Palindrome\bin\Debug\Palindrome.pdb
+C:\Users\ericksl\Desktop\CursoCSharp\Palindrome\Palindrome\obj\Debug\Palindrome.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Palindrome\Palindrome\obj\Debug\Palindrome.pdb

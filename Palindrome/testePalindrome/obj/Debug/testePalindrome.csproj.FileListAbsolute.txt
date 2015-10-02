@@ -1,0 +1,8 @@
+D:\CursoCSharp\Palindrome\testePalindrome\obj\Debug\testePalindrome.csprojResolveAssemblyReference.cache
+C:\Users\ericksl\Desktop\CursoCSharp\Palindrome\testePalindrome\obj\Debug\testePalindrome.csprojResolveAssemblyReference.cache
+C:\Users\ericksl\Desktop\CursoCSharp\Palindrome\testePalindrome\obj\Debug\testePalindrome.pdb
+C:\Users\ericksl\Desktop\CursoCSharp\Palindrome\testePalindrome\bin\Debug\testePalindrome.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Palindrome\testePalindrome\bin\Debug\testePalindrome.pdb
+C:\Users\ericksl\Desktop\CursoCSharp\Palindrome\testePalindrome\bin\Debug\Palindrome.dll
+C:\Users\ericksl\Desktop\CursoCSharp\Palindrome\testePalindrome\bin\Debug\Palindrome.pdb
+C:\Users\ericksl\Desktop\CursoCSharp\Palindrome\testePalindrome\obj\Debug\testePalindrome.dll
