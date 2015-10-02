@@ -6,3 +6,10 @@ C:\Users\ericksl\Desktop\CursoCSharp\Palindrome\testePalindrome\bin\Debug\testeP
 C:\Users\ericksl\Desktop\CursoCSharp\Palindrome\testePalindrome\bin\Debug\Palindrome.dll
 C:\Users\ericksl\Desktop\CursoCSharp\Palindrome\testePalindrome\bin\Debug\Palindrome.pdb
 C:\Users\ericksl\Desktop\CursoCSharp\Palindrome\testePalindrome\obj\Debug\testePalindrome.dll
+d:\github\CursoCSharp\Palindrome\testePalindrome\bin\Debug\testePalindrome.dll
+d:\github\CursoCSharp\Palindrome\testePalindrome\bin\Debug\testePalindrome.pdb
+d:\github\CursoCSharp\Palindrome\testePalindrome\bin\Debug\Palindrome.dll
+d:\github\CursoCSharp\Palindrome\testePalindrome\bin\Debug\Palindrome.pdb
+d:\github\CursoCSharp\Palindrome\testePalindrome\obj\Debug\testePalindrome.csprojResolveAssemblyReference.cache
+d:\github\CursoCSharp\Palindrome\testePalindrome\obj\Debug\testePalindrome.dll
+d:\github\CursoCSharp\Palindrome\testePalindrome\obj\Debug\testePalindrome.pdb

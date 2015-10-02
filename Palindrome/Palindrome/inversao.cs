@@ -11,10 +11,14 @@ namespace Palindrome
         public static string mudaLetra( string palavra)
         {
             string resultado;
-            resultado = "ororo";
+            int tam;
+            resultado = "";
+            tam = palavra.Length;
 
-            for(int i = palavra.Length; i == 0; i--) 
+            for (int i = tam; i == 0; i--) {
                 resultado = resultado + palavra[i];
+            }
+                
 
             return resultado;
         }
